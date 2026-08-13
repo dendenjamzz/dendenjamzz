@@ -6,15 +6,14 @@
 
 [![portrait](./ascii.svg)](./ascii.svg)
 
-### Hi, I'm [Your Name] 👋
+### Hi, I'm DEN 👋
 
-> Short one- or two-line tagline about what you do or care about.
+> I studied economic informatics and now I am enriching my skills
 
-A slightly longer paragraph about yourself: what you're studying or working
-on, what you're currently building, and what you're into. Keep it a few
-sentences — this is a profile page, not a resume.
+I am into logistics, data entry, python, linux and websites. Besides my faculty projects 
+I do projects on these specific topics.
 
-`python` `typescript` `react` `node` — *(swap in your own stack)*
+`python` `react` `node` `linux` `html` `css`
 
 ---
 
