@@ -4,7 +4,7 @@
   username (yourusername/yourusername).
 -->
 
-[![portrait](./ascii.svg)](./ascii.svg)
+[![portrait](./ascii (1).svg)](./ascii (1).svg)
 
 ### Hi, I'm [Your Name] 👋
 
