@@ -19,7 +19,7 @@ I do projects on these specific topics.
 
 ### Projects
 
-**[project-one]([https://github.com/dendenjamzz/MindMap.git])** · `tech, stack`
+**[project-one](https://github.com/dendenjamzz/MindMap.git)** · `tech, stack`
 One or two lines describing what it does and why it's interesting.
 
 **[project-two](https://github.com/yourusername/project-two)** · `tech, stack`
