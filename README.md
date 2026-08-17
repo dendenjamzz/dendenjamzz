@@ -40,4 +40,4 @@ The site will be connected to a neo city site soon which will have my python gam
 For other projects check my repositories (they are faculty projects for now) · `C++, C#, C, Java, Python, PowerBi, UIPath, Linux, HTML, CSS, NOde.js`
 ---
 
-[LinkedIn](https://www.linkedin.com/in/denisa-maria-pavel-01879926b/) · [email](paveldenisamaria14@gmail.com)
+
